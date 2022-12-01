@@ -1,0 +1,34 @@
+[
+  {
+    "type": "Castle",
+    "upgrades": [
+      {
+        "id": "minstrel",
+        "name": "Minstrel Upgrade Package"
+      },
+      {
+        "id": "whiteHorseCarriage",
+        "name": "White Horse Carriage"
+      }
+    ],
+    "guestAttributes": [
+      {
+        "id": "nobility",
+        "name": "Noble Guest"
+      }
+    ]
+  },
+  {
+    "type": "Hotel",
+    "upgrades": [
+      {
+        "id": "redCarpet",
+        "name": "Red Carpet"
+      },
+      {
+        "id": "spa",
+        "name": "Spa Package"
+      }
+    ]
+  }
+]

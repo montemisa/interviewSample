@@ -1,0 +1,62 @@
+[
+  {
+    "type": "Castle",
+    "id": "CBAM",
+    "name": "Bamburgh Castle",
+    "description": "A castle like no other!  England's finest coastal castle.",
+    "availableRooms": 10,
+    "amenities": [
+      "Norman Architecture",
+      "Children Free"
+    ]
+  },
+  {
+    "type": "Castle",
+    "id": "CALN",
+    "name": "Alnwick Castle",
+    "description": "The iconic Alnwick Castle is home to Harry Poter-inspired events.",
+    "availableRooms": 13,
+    "amenities": [
+      "Harry Potter"
+    ]
+  },
+  {
+    "type": "Castle",
+    "id": "CDOV",
+    "name": "Dover Medieval Castle",
+    "description": "Dover Castle is a medieval castle in Dover, Kent, England.  It was founded in the 11th century.",
+    "availableRooms": 0,
+    "amenities": null
+  },
+  {
+    "type": "Hotel",
+    "id": "HCAP",
+    "name": "Capella Ubud",
+    "description": "Located in Bali, Indonesia, the property has been claimed to have the best personalized service.",
+    "availableRooms": 2,
+    "amenities": [
+      "Magical",
+      "Spa"
+    ]
+  },
+  {
+    "type": "Hotel",
+    "id": "HHOT",
+    "name": "Hotel Amparo",
+    "description": "Located in San Miguel de Allende, Mexico you can't pass up this opportunity!",
+    "availableRooms": 10,
+    "amenities": [
+      "Local Sight Seeing"
+    ]
+  },
+  {
+    "type": "Hotel",
+    "id": "HHOL",
+    "name": "Holiday Inn Express",
+    "description": "Reserve fast!  This hotel sells out quickly.",
+    "availableRooms": 0,
+    "amenities": [
+      "Wifi"
+    ]
+  }
+]

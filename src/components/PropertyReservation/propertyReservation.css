@@ -1,0 +1,64 @@
+
+
+.propertyReservationHeader {
+    height: 85px;
+}
+
+.propertyReservationFormInput {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 16px;
+}
+
+.propertyReservationFormInput input {
+    margin-top: 4px;
+    height: 32px;
+    border-radius: 5px;
+}
+
+.propertyReservationFormInput select {
+    margin-top: 4px;
+    height: 32px;
+}
+
+.propertyReservationFormInput label {
+    display: flex;
+    align-items: center;
+}
+
+.propertyReservationFormButtons {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 24px;
+}
+
+.propertyReservationGuest {
+    margin-bottom: 24px;
+}
+
+.propertyReservationFormRemoveGuestButton {
+    float: right;
+}
+
+.propertyReservationFormUpgradesAndAmenities {
+    display: flex;
+    margin-bottom: 48px;
+}
+
+.propertyReservationFormUpgradesAndAmenities > div{
+    flex-grow: 1;
+    flex-basis: 50%;
+}
+.propertyReservationFormUpgradesAndAmenities h3 {
+    text-align: center;
+}
+
+.propertyReservationFormOptions {
+    display: flex;
+}
+
+.propertyReservationFormOption {
+    width: calc(50% - 16px);
+    text-align: center;
+    overflow: hidden;
+}
